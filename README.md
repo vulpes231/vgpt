@@ -1,0 +1,1 @@
+The article extractor and summarizer API is a tool that can extract the body of new article from a url and summarize it's content using OpenAI GPT from RapidAPI
